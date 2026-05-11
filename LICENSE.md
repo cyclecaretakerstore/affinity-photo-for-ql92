@@ -1,4 +1,4 @@
-
+Enhance Affinity Photo for macOS with instant Affinity Photo for macOS Preset | version history + export to SVG, the #1 preset. Includes version history and export to SVG for a
 
 
 
